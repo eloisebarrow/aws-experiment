@@ -1,24 +1,15 @@
-# README
+# Practicing AWS S3
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Ruby version
 
-Things you may want to cover:
+2.6.3p62
 
-* Ruby version
+## System dependencies
 
-* System dependencies
+Axios
 
-* Configuration
+## Errors and Resolutions
 
-* Database creation
+**ERROR**: user 1's image is no longer rendering although it was yesterday 11/6 - Network tab shows a 403 Forbidden error from AWS. All newer user images loaded fine at first but within approximately 10 minutes they had the same error. 
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+**RESOLUTION**: TBD
